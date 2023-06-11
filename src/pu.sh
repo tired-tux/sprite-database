@@ -1,4 +1,5 @@
 #!/bin/zsh
+rm tmp*
 cargo r > .tmp
 mkdir $1/$2/$3/
 touch ~/sprite-database/entries/$1/$2/$3/$4
