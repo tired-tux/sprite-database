@@ -1,5 +1,5 @@
 #!/bin/zsh
-mkdir ~/sprite-database/entries/$1/$2/$3/
+mkdir ~/sprite-database/entries/$1/$2/$3/ -r
 touch ~/sprite-database/entries/$1/$2/$3/$4
 cargo r > ~/sprite-database/entries/$1/$2/$3/$4
 cat ~/sprite-database/entries/$1/$2/$3/$4
