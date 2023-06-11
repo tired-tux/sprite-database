@@ -3,16 +3,16 @@ struct Input {
     fizz: i8,
     flavor: i8,
     sweet: i8,
-    notes: String,
+    notes: String
 }
 fn main() {
-    // After filling out the form, run ./pu.sh [State Abbreveation] [City Name] [Street Name] [Street Number]. The file will be created.
+    // After filling out the form, run ./pu.sh [filename]. The file will be created.
     let form = Input {
-        address: "1743 King St, Alexandria, VA".to_string(),
-        fizz: 10,
-        flavor: 8,
-        sweet: 9,
-        notes: "Very good! Tastes a little watery.".to_string(),
+        address: "".to_string(),
+        fizz: 0,
+        flavor: 0,
+        sweet: 0,
+        notes: "".to_string()
     };
     let _ = data(form.address, form.fizz, form.flavor, form.sweet, form.notes);
 }
