@@ -9,6 +9,7 @@ The Sprite Database is for when you want to go somewhere but you dont know how g
 3. Find the street (Ex: King)
 4. Find the address number (Ex: 1743)
 5. Read up on the rating and think "Do I want Sprite, or something else?"
+Don't worry! I am currently making a website to streamline this.
 # I can't find it!
 If you don't find it, follow these steps:
 1. Goto that place and taste the Sprite
