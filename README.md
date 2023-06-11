@@ -14,10 +14,10 @@ If you don't find it, follow these steps:
 1. Goto that place and taste the Sprite
 2. Rate each category on a scale from 1-10. There is no need to average anything, as my script does all the math.
 3. Send me an email at vmlinuz@duck.com and use the email template below.
-Hello. I wish to add a location to the database.
-[Address]
-[Fizz]
-[Flavor]
-[Sweetness]
-[Notes]
+- Hello. I wish to add a location to the database.
+- [Address]
+- [Fizz]
+- [Flavor]
+- [Sweetness]
+- [Notes]
 4. Send it to me and I will add it ASAP.
